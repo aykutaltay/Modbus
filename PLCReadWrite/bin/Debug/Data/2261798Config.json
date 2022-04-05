@@ -1,0 +1,11 @@
+{
+  "IpAddress": "192.168.1.69",
+  "Port": "502",
+  "DataAddress": "0",
+  "ReadWrite": 1, //read=0,Write=1
+  "Data": 150,
+  "BlogConst": "4601",
+  "Station": "01",
+  "LocalDataAddress": 0
+
+}
